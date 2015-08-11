@@ -2,7 +2,7 @@
 
 Available in MELPA
 
-Material theme of SublimeText for Emacs.
+A theme inspired by SublimeText's Material theme.
 
 ## HTML 
 
