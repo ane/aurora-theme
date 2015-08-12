@@ -1,6 +1,8 @@
 #Aurora Theme
 
-Available in MELPA
+[![MELPA](http://melpa.org/packages/aurora-theme-badge.svg)](http://melpa.org/#/aurora-theme)
+
+Available in MELPA 
 
 A theme inspired by SublimeText's Material theme.
 
