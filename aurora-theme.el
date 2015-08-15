@@ -32,7 +32,7 @@
     ("aurora-bg+3"     . "#455a64")
     ("aurora-red"      . "#74CBC4")
     ("aurora-orange"   . "#C2E982")
-    ("aurora-yellow"   . "#FFEB95")
+    ("aurora-yellow"   . "#FFC400")
     ("aurora-yellow+1" . "#F9D330")
     ("aurora-green"    . "#546D7A")
     ("aurora-green+1"  . "#9FAA9B")
