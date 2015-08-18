@@ -42,7 +42,7 @@
     ("aurora-cyan"     . "#FF516D")
     ("aurora-blue+1"   . "#74CBC4")
     ("aurora-blue"     . "#82B1FF")
-    ("aurora-magenta"  . "#A579C2"))
+    ("aurora-magenta"  . "#D9F5DD"))
   "List of aurora colors.
 Each element has the form (NAME . HEX).
 `+N' suffixes indicate a color is lighter.
