@@ -115,7 +115,7 @@ Also bind `class' to ((class color) (min-colors 89))."
      ((t (:foreground ,aurora-green
                       :background ,aurora-bg-05
                       :box (:line-width -1 :style released-button)))))
-   `(region ((,class (:background ,aurora-bg-1))
+   `(region ((,class (:background ,aurora-bg+3))
              (t :inverse-video t)))
    `(secondary-selection ((t (:background ,aurora-bg+2))))
    `(trailing-whitespace ((t (:background ,aurora-red))))
