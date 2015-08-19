@@ -6,6 +6,8 @@ Available in MELPA
 
 A theme inspired by SublimeText's Material theme.
 
+***Font: DejaVu Sans Mono***
+
 ## HTML 
 
 ![Example](https://raw.githubusercontent.com/xzerocode/aurora-theme/master/screenshots/screenshot-html.png)
