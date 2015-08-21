@@ -2,6 +2,7 @@
 
 ;; Author: Luis Cairampoma <redshacker11@gmail.com>
 ;; URL: http://github.com/xzerocode/aurora-theme
+;; Package-Version: 20150818.1359
 ;; Version: 0.1
 
 ;;; Commentary:
@@ -19,16 +20,16 @@
 ;;; Color Palette
 
 (defvar aurora-colors-alist
-  '(("aurora-fg+1"     . "#FFFFFF")
+  '(("aurora-fg+1"     . "#FFFFEF")
     ("aurora-fg"       . "#CDD3D3")
-    ("aurora-fg-1"     . "#FFFFFF")
-    ("aurora-bg-2"     . "#FFFFFF")
+    ("aurora-fg-1"     . "#000000")
+    ("aurora-bg-2"     . "#000000")
     ("aurora-bg-1"     . "#2B3B40")
     ("aurora-bg-05"    . "#232A2F")
     ("aurora-bg"       . "#263238")
     ("aurora-bg+05"    . "#494949")
-    ("aurora-bg+1"     . "#263038")
-    ("aurora-bg+2"     . "#263038")
+    ("aurora-bg+1"     . "#232A2F")
+    ("aurora-bg+2"     . "#263238")
     ("aurora-bg+3"     . "#455a64")
     ("aurora-red"      . "#74CBC4")
     ("aurora-orange"   . "#C2E982")
@@ -70,7 +71,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(default ((t (:foreground ,aurora-fg :background ,aurora-bg))))
    `(cursor ((t (:foreground ,aurora-fg :background ,aurora-fg+1))))
    `(escape-glyph ((t (:foreground ,aurora-yellow :bold t))))
-   `(fringe ((t (:foreground ,aurora-fg :background ,aurora-bg+1))))
+   `(fringe ((t (:foreground ,aurora-fg :background ,aurora-bg+2))))
    `(header-line ((t (:foreground ,aurora-yellow
                                   :background ,aurora-bg-1
                                   :box (:line-width -1 :style released-button)))))
