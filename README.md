@@ -8,6 +8,12 @@ A theme inspired by SublimeText's Material theme.
 
 ***Font: DejaVu Sans Mono***
 
+## Dark-Mode
+
+Coming soon ...
+
+![Example](https://raw.githubusercontent.com/xzerocode/aurora-theme/master/screenshots/dark-mode.png)
+
 ## HTML 
 
 ![Example](https://raw.githubusercontent.com/xzerocode/aurora-theme/master/screenshots/screenshot-html.png)
