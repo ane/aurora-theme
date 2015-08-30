@@ -114,7 +114,7 @@ Also bind `class' to ((class color) (min-colors 89))."
   `(mode-line-buffer-id ((t (:foreground ,aurora-magenta :weight bold))))
   `(mode-line-inactive
      ((t (:foreground ,aurora-fg
-                      :background ,"#73909C"
+                      :background ,"#516872"
                       :box (:line-width -1 :style released-button)))))
    `(region ((,class (:background ,aurora-bg+3))
 
@@ -124,7 +124,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(vertical-border ((t (:foreground ,aurora-bg+3))))
 
 ;;;;; powerline buffer
-   `(powerline-active1 ((t (:background ,"#73909C" :inherit mode-line))))
+   `(powerline-active1 ((t (:background ,"#516872" :inherit mode-line))))
    `(powerline-active2 ((t (:background ,"#324148" :inherit mode-line))))
    `(powerline-inactive1 ((t (:background ,"#324148" :inherit mode-line-inactive))))
    `(powerline-inactive2 ((t (:background ,"#324148" :inherit mode-line-inactive))))
