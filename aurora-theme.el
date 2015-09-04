@@ -670,7 +670,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(org-agenda-structure
      ((t (:inherit font-lock-comment-face))))
    `(org-archived ((t (:foreground ,aurora-fg :weight bold))))
-   `(org-checkbox ((t (:background ,aurora-bg+2 :foreground ,aurora-fg+1
+   `(org-checkbox ((t (:background ,aurora-bg+05 :foreground ,aurora-fg+1
                                    :box (:line-width 1 :style released-button)))))
    `(org-date ((t (:foreground ,aurora-blue :underline t))))
    `(org-deadline-announce ((t (:foreground ,aurora-red))))
