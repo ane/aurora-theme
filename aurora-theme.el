@@ -27,15 +27,15 @@
     ("aurora-bg-05"    . "#232A2F")
     ("aurora-bg"       . "#263238")
     ("aurora-bg+05"    . "#324148")
-    ("aurora-bg+1"     . "#232A2F");;232A2F
-    ("aurora-bg+2"     . "#FFFFFF");;BG
+    ("aurora-bg+1"     . "#232A2F")
+    ("aurora-bg+2"     . "#FFFFFF")
     ("aurora-bg+3"     . "#455a64")
     ("aurora-red"      . "#74CBC4")
     ("aurora-orange"   . "#C2E982")
     ("aurora-yellow"   . "#C792EA")
     ("aurora-yellow+1" . "#FFC400")
     ("aurora-green"    . "#546D7A")
-    ("aurora-green+1"  . "#FF516D");;test
+    ("aurora-green+1"  . "#FF516D")
     ("aurora-green+2"  . "#9FC59F")
     ("aurora-green+3"  . "#859900")
     ("aurora-green+4"  . "#F77669")
@@ -144,7 +144,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(font-lock-regexp-grouping-backslash ((t (:foreground ,aurora-green :weight bold))))
    `(font-lock-string-face ((t (:foreground ,aurora-orange))))
    `(font-lock-type-face ((t (:foreground ,aurora-blue))))
-   `(font-lock-variable-name-face ((t (:foreground ,aurora-orange))))
+   `(font-lock-variable-name-face ((t (:foreground ,aurora-red))))
    `(font-lock-warning-face ((t (:foreground ,aurora-yellow+1 :weight bold))))
 
    `(c-annotation-face ((t (:inherit font-lock-constant-face))))
