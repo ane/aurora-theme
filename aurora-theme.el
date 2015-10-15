@@ -197,7 +197,9 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(popup-isearch-match ((t (:background ,aurora-bg :foreground ,aurora-fg))))
 ;;;;; company-mode
    `(company-tooltip ((t (:foreground ,aurora-yellow :background ,aurora-bg+1))))
+   `(company-tooltip-annotation ((t (:foreground ,aurora-blue :background ,aurora-bg+1))))
    `(company-tooltip-selection ((t (:foreground ,aurora-fg :background ,aurora-bg-1))))
+   `(company-template-field ((t (:foreground ,aurora-magenta :background ,aurora-bg-1))))
    `(company-tooltip-mouse ((t (:background ,aurora-bg-1))))
    `(company-tooltip-common ((t (:foreground ,aurora-yellow :background ,aurora-bg-1))))
    `(company-tooltip-common-selection ((t (:background ,aurora-bg-1))))
